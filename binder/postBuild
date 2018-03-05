@@ -1,0 +1,4 @@
+#!/bin/bash
+conda install nodejs
+npm install -g ijavascript
+ijsinstall
